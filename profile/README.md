@@ -28,7 +28,7 @@
   </p>
 
 # Introduction
-The fact that Indonesia is an archipelagic country located in the ring of fire makes Indonesia one of the countries with the most cases of natural disasters in the world. Quoting from the unicef article that said “After a series of earthquakes hit Sulawesi, Indonesia, it is estimated that around 300 children were separated and unaccompanied by adults” therefore our hearts are moved to help bring them back together.
+The fact that Indonesia is an archipelagic country located in the ring of fire makes Indonesia one of the countries with the most cases of natural disasters in the world. Quoting from the UNICEF article that said “After a series of earthquakes hit Sulawesi, Indonesia, it is estimated that around 300 children were separated and unaccompanied by adults” therefore our hearts are moved to help bring them back together.
 
 # How it Works?
 We use face matching algorithm to find similarity between the uploaded face and our synced database of disaster management organizations and it will display the identity and location to find them.
